@@ -24,7 +24,7 @@ git clone [https://github.com/crivelarohenrique/Agender.git](https://github.com/
 2. Instalar dependências:
    npm install
 
-3. Criar arquivo `.env` e configurar as variáveis:
+3. Acessar o arquivo `.env` e configurar as variáveis:
    - `PORT`: Porta do servidor.
    - `JWT_SECRET`: Chave secreta para autenticação.
 
@@ -40,7 +40,7 @@ git clone [https://github.com/crivelarohenrique/Agender.git](https://github.com/
 2. Instalar dependências:
    npm install
 
-3. Criar arquivo `.env` e configurar a variável:
+3. Acessar o arquivo `.env` e configurar a variável:
    - `URL_BACKEND`: URL do backend.
 
 4. Iniciar o servidor de desenvolvimento:
