@@ -27,8 +27,11 @@ git clone [https://github.com/crivelarohenrique/Agender.git](https://github.com/
 3. Acessar o arquivo `.env` e configurar as variáveis:
    - `PORT`: Porta do servidor.
    - `JWT_SECRET`: Chave secreta para autenticação.
+  
+4. Iniciar o servidor de desenvolvimento:
+   npm start
 
-4. Acessar o endpoint `/api/docs` para testar as rotas da API com Swagger.
+5. Acessar o endpoint `/api/docs` para testar as rotas da API com Swagger.
 
 -------------------------
 
