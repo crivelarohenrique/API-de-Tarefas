@@ -29,7 +29,7 @@ git clone [https://github.com/crivelarohenrique/Agender.git](https://github.com/
    - `JWT_SECRET`: Chave secreta para autenticação.
   
 4. Iniciar o servidor de desenvolvimento:
-   npm start
+   **npm start**
 
 5. Acessar o endpoint `/api/docs` para testar as rotas da API com Swagger.
 
@@ -47,7 +47,7 @@ git clone [https://github.com/crivelarohenrique/Agender.git](https://github.com/
    - `URL_BACKEND`: URL do backend.
 
 4. Iniciar o servidor de desenvolvimento:
-   npm run serve
+   **npm run serve**
 
 -------------------------
 
